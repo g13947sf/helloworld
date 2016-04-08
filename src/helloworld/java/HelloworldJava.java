@@ -18,5 +18,6 @@ public class HelloworldJava {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("こんにちは");
+        System.out.println("ありがとう！");
     }
 }
